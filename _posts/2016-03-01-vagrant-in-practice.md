@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Vagrant in Practice
-date:       2014-06-08 11:21:29
+date:       2016-03-01 11:21:29
 summary:    Illustrate use of vagrant boxes
 categories: development
 ---
