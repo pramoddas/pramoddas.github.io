@@ -3,7 +3,7 @@ layout:     post
 title:      Vagrant in Practice
 date:       2016-03-01 11:21:29
 summary:    Illustrate use of vagrant boxes
-categories: development
+categories: development,vagrant
 ---
 
 Software developers are very edgy about their tools and pushing for the adoption of a new toolset always poses a major challenge. But there have been tools which creep in, into their  workflows.Vagrant has been one such tool; as is evident from the google worldwide trends .
