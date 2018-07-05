@@ -177,7 +177,7 @@ For all those developers still thinking about adopting Vagrant, they just need t
 In this case the developer workflow can be summarised
 Assigned an issue from the issue tracker.         
 Use the vagrant VM to clone the current dev repository into the folder it shares with the host OS. The developer can keep using his IDE for developing/debugging.         
-Commits changes and tests locally
+Commits changes and tests locally..
 Push to remote and mark the issue as closed.
 Vagrant and Docker have been gaining mass adoption at enterprises and the long term stability provided by these platforms makes it unavoidable for any software development team to do without it.
 
