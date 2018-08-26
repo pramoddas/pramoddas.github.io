@@ -1,10 +1,10 @@
 # Site settings
-title:       Pramod Das
+title:       Pramod
 email:       pramodas23@example.com
 author:      Pramod Das
-description: "All things related to development"
+description: "All ramblings related to development"
 baseurl:     ""
-url:         "http://pramoddas.githu.io"
+url:         "http://pramoddas.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
