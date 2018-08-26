@@ -28,9 +28,9 @@ so our queries is going to be based on PLAYERS & TEAMS
 
 CODE
 first 2 lines defines classes for TEAM & PLAYER
-{% highlight javascript %}
+``` javascript
 var q = new Parse.Query("Team");
-{% endhighlight %}
+```
 
 
 a query instance we can perform queries on the database
