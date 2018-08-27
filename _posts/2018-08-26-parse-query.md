@@ -4,10 +4,10 @@ title: Parse Query Basics
 permalink: /parse-query-basics/
 tags: JS
 ---
-In this lesson, we are going to look at queries in parse.If you are new to Parse and would like an introduction to Parse, before moving forward, have a look here.
+In this lesson, we are going to look at queries in Parse.If you are new to Parse and would like an introduction to Parse,  have a look here.
 
 ###### WHAT'S A PARSE QUERY
-Querying parse is like a asking the parse server to filter data based on certain rules.
+Querying Parse is like asking the parse server to filter data based on certain rules.
 parse queries are sent to the server and the parse server returns datasets matching the ruleset(much like filtering data)
 A parse query is used to select a subset of the data stored on the server based on the certain rules
 
