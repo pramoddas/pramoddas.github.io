@@ -4,7 +4,7 @@ title: Parse Query Basics
 permalink: /parse-query-basics/
 tags: JS
 ---
-In this lesson, we are going to look at queries in parse.
+In this lesson, we are going to look at queries in parse.If you are new to Parse and would like an introduction to Parse, before moving forward, have a look here.
 
 ###### WHAT'S A PARSE QUERY & WHAT IS THE NEED FOR A QUERY
 Querying parse is like a asking the parse server to filter data based on certain rules.
