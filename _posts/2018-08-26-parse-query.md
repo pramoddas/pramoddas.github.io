@@ -6,7 +6,7 @@ tags: JS
 ---
 In this lesson, we are going to look at queries in parse.
 
-######WHAT'S A PARSE QUERY & WHAT IS THE NEED FOR A QUERY
+###### WHAT'S A PARSE QUERY & WHAT IS THE NEED FOR A QUERY
 Querying parse is like a asking the parse server to filter data based on certain rules.
 parse queries are sent to the server and the parse server returns datasets matching the ruleset(much like filtering data)
 A parse query is used to select a subset of the data stored on the server based on the certain rules
@@ -18,7 +18,7 @@ initialize url
 ``` 
 Intialize and specify URL for query
 
-######DATA TO BE USED 
+###### DATA TO BE USED 
 
 soccer teams
 players
