@@ -1,0 +1,335 @@
+{1700}{1742}I got you a present.
+{1840}{1882}Thanks.
+{1990}{2042}cIassicaI music
+{2047}{2090}You Iike that, don't you ?
+{2130}{2172}Thanks.
+{2557}{2635}Now you have to give me a present|in return.
+{4365}{4412}I stiII need to practice.
+{6125}{6162}BeIIe speaking.
+{6215}{6255}Thank you.
+{6272}{6335}I get to audition.|- ReaIIy ?
+{6840}{6930}Sander, hoId off on the penetration|for now, pIease.
+{6975}{7062}What is it ?|- I'm in the next round.
+{7065}{7122}DarIing, that's fantastic.
+{7170}{7262}That's good of you.|I'II see you in a IittIe whiIe.
+{7315}{7420}Good, Sander. You can start|touching her a bit more now.
+{8277}{8330}Where did we Ieave off ?
+{8370}{8415}Mr WoIf.
+{8640}{8727}You appIied for the entrance exam ?
+{8797}{8917}That's fiendishIy difficuIt.|You're competing against top taIent.
+{8920}{9022}Like you said: TaIent is onIy haIf of it.|The rest is just practice.
+{9540}{9625}With emotion, BeIIe.|Try to feeI the piece.
+{9627}{9692}Let yourseIf go.
+{9695}{9805}Try to pIay it sIowIy first.|Then the notes wiII foIIow automaticaIIy.
+{9857}{9912}Then you can create something.
+{10490}{10657}BeIIe, I hate teIIing you this, but|I don't think the exam is a good idea.
+{10707}{10815}PIay for your own pIeasure.|You'II faII fIat on your face.
+{11020}{11085}Do you know that piece ?|- Yes, it's nice.
+{11087}{11232}I'd reaIIy Iike to be abIe to pIay that.|- Yes, it's pretty hard.
+{11235}{11300}What did you have to pIay|for the audition ?
+{11305}{11435}We had to pIay a sIow piece|by Schubert and I messed up.
+{11440}{11512}I have to pIay the first movement|of a piece by Bruch.
+{11560}{11667}WoIf says I shouIdn't audition.|- You shouId just go for it.
+{11672}{11722}Keep practicing.
+{11760}{11940}I reaIIy want to get in, Yukshi.|- You can do it, if you reaIIy want it.
+{11950}{12045}I'm going to practice again.|See you soon.
+{12050}{12117}I'm Iooking forward to seeing you again.|- Ciao, beIIa.
+{12522}{12597}Can I come|to the graduation party tonight ?
+{12652}{12692}And then what ?
+{12782}{12875}We can ride our bikes together.|Then we can stay Ionger.
+{12935}{13082}I don't know how Iong I'II stay.|- BeIIe, don't be such a spoiIsport.
+{13685}{13760}So, how's Hendrik ?
+{13805}{13915}Does he reaIIy have a crooked dick ?|- What gave you that idea ?
+{13920}{13970}That's what I heard.|- I don't know.
+{13975}{14087}He can come over and spend|the night here. That's not a probIem.
+{14090}{14242}We have no secrets here.|I'd know what to do with him.
+{14247}{14350}You're nuts.|Can I have the chocoIate fIakes ?
+{14560}{14635}PIaying the vioIin isn't aII that matters.
+{14637}{14765}Go to the party tonight|and enjoy yourseIf.
+{14770}{14857}You enjoy Hendrik and he can enjoy you.
+{14860}{14940}Just experiment around a bit.|I did that too.
+{14945}{15062}I'm not you.|- No, I know that, but ..
+{15065}{15142}You're such an open person|and you know it starts here.
+{15145}{15220}It starts here.|It aII starts in your abdomen.
+{15225}{15310}Open your chakra's,|and once you can open those ..
+{15312}{15405}the worId wiII Iook very different.|Open them up.
+{15407}{15530}Look at how beautifuI you are. I know it,|Hendrik knows it, but you don't.
+{15535}{15572}You're so gorgeous.
+{15665}{15780}You know, you can aIways ..|There's Karin and her new boyfriend.
+{15837}{15987}DarIing, my sexuaI openness is unique.|Use it.
+{15990}{16045}HeIIo, come in.
+{17287}{17342}I feeI Iike getting my present.
+{17495}{17550}We couId go now.
+{17580}{17627}Later on, okay ?
+{17970}{18047}I don't want any more.
+{18370}{18430}Can we go now ?
+{18635}{18687}Come on, Iet's go. Now.
+{18795}{18857}You're simpIy scared.
+{18897}{18952}And you're simpIy drunk.
+{18982}{19065}Not at aII. I'm just a IittIe bit tipsy.
+{19157}{19220}I'm going to the bathroom.
+{25817}{25857}Push.
+{26232}{26280}Thanks.
+{26755}{26802}BeIIe DaatseIaar.
+{26890}{26957}They're coming to pick this up.|- Thank you.
+{26960}{27042}Good Iuck Iater on.|- Thank you.
+{27147}{27217}Can I borrow your rosin ? Thanks.
+{27940}{28017}How are you ?|- I'm reaIIy nervous.
+{28022}{28105}You'II be fine. I made it too.
+{28110}{28200}I practiced very hard,|despite WoIf's comments.
+{28205}{28272}Loose shouIders and knees and reIax.
+{28277}{28367}Next Belle Daatselaar.
+{28420}{28485}Good Iuck.|- Thanks.
+{28490}{28562}WiII I see you afterwards ?|- Yes.
+{28565}{28600}Bye.
+{29302}{29370}That's enough, thank you.
+{31285}{31412}Can I pIease start again ?|- Yes, go ahead.
+{32610}{32675}That's enough. Thank you.
+{32677}{32747}No, I think we shouId ..
+{32752}{32847}Sorry. It's my nerves.
+{32852}{32937}It's fine. Thank you.|- We'II take that into account.
+{33075}{33237}We're taking a break. Everybody be|quiet for a sound check. I need coffee.
+{33242}{33300}Everybody pIease be quiet.
+{33487}{33550}siIence
+{33755}{33805}Are you okay ?
+{37315}{37367}That was beautifuI.
+{38290}{38375}I was reaIIy very nervous earIier.
+{38380}{38502}I've never taken an entrance exam.|- You pIayed weII just now.
+{38505}{38577}But very different|than during the audition.
+{38672}{38780}One of my coIIeagues|caIIed your performance 'frigid'.
+{38847}{38942}Frigid ?|- It's her personaI hang-up.
+{39045}{39167}Hey, I heard you pIay just now.|You were very good.
+{39170}{39232}I hope they'II accept you.
+{39265}{39312}Sugar or miIk ?
+{39455}{39575}It's going to be cIose, but I wiII give you|the benefit of the doubt.
+{39580}{39637}You're through to the second round.
+{39752}{39842}Maybe I can give you an extra Iesson.|Just give me a caII.
+{39982}{40075}Mum, it's me. I made it.|- That's fabuIous.
+{40080}{40172}I'm in the second round.|- That's great.
+{40177}{40262}Mum, what does frigid mean ?
+{40265}{40402}Frigid is a nasty word|for chronicaIIy bIocked chakra's.
+{40442}{40502}Am I that ?|- Why do you say that ?
+{40505}{40617}Am I ? Yes or no ?|- You're just a bit sexIess.
+{40650}{40682}SexIess ?
+{40687}{40827}Do you know what you need to do ?|Experiment around. That's aII.
+{40830}{40915}I'II caII you Iater.|- Bye, darIing.
+{41375}{41415}BeIIe ?|- HeIIo ?
+{41420}{41507}Hey, aII the way up, on the right.
+{41650}{41735}What a huge room.|- It's stiII a bit of a mess.
+{41740}{41782}I need to tidy up a bit.
+{41805}{41882}HeIIo, IittIe parrot. Are you stiII aIive ?
+{41942}{42037}Have you heard from them yet ?|- I'm through.
+{42040}{42102}You see ? I knew it.
+{42105}{42170}I've never heard you pIay|that weII before.
+{42215}{42282}You must have practiced a Iot.
+{42895}{42972}That's not what I heard this afternoon.
+{43060}{43105}I don't know why.
+{43145}{43197}I need to practice a Iot.
+{43537}{43642}You're constantIy busy|memorizing the notes.
+{43645}{43717}You need to Iet yourseIf go.
+{44050}{44107}So you think I'm a controI freak ?
+{44155}{44230}Have you ever taken a piII ?
+{44232}{44342}Before a performance ?|- No, just for fun.
+{44345}{44410}Have you ?|- Yes.
+{44457}{44505}And what happened ?
+{44552}{44607}I feIt Iike having sex.
+{44847}{44917}Something happened|during the entrance exam.
+{44942}{44992}What happened ?
+{45020}{45080}I don't know exactIy what happened.
+{45300}{45355}It was very dark.
+{45357}{45445}Someone came up behind me.|- What ?
+{45447}{45537}I'm so ashamed.|It couId have been anybody.
+{45540}{45682}I compIeteIy Iost controI,|I just grabbed him.
+{45685}{45737}Did you have sex ?
+{45797}{45875}I started pIaying very weII|aII of a sudden.
+{45977}{46057}Maybe I need to have sex|with compIete strangers.
+{46515}{46592}John: everything women want
+{46617}{46672}Are you going to caII him ?
+{47007}{47087}Why wouId John know|what women want ?
+{47405}{47452}Bye.
+{47455}{47517}Have fun.|- Have fun at work.
+{49492}{49542}Are you aIone ?
+{49572}{49670}Don't you have a boyfriend ?|- No.
+{49672}{49767}No, I don't.|- A beautifuI girI Iike you ?
+{49880}{49967}I'm John.|- Anka.
+{50030}{50072}What a beautifuI name.
+{50205}{50255}ShaII I put on some music ?
+{50602}{50647}Can I change somewhere ?
+{50760}{50817}Right then, Anka.
+{50822}{50885}I'm ready, how about you ?
+{51267}{51362}His name is WiIco.|You can say hi to him if you want.
+{51560}{51637}Aren't you going to give him a kiss ?
+{51645}{51682}Maybe Iater.
+{52520}{52557}Good taste.
+{52637}{52700}Lie on your stomach.
+{52787}{52835}I've never done it before.
+{52862}{52917}It's your first time ?
+{52962}{53047}You're in good hands.|I'm very experienced.
+{53910}{53955}This isn't working for me.
+{54692}{54750}Do you want to put on WiIco's jacket ?
+{54855}{54915}You can do it.
+{56550}{56592}Is it okay ?
+{56810}{56925}It's not you.|I'm just not very good at this.
+{56965}{57012}Maybe we shouId stop.
+{57420}{57465}Thanks.
+{57645}{57682}Bye.
+{58427}{58477}Here you are.
+{58587}{58640}So ?
+{58642}{58762}I did it. It doesn't work.|- I toId you so.
+{58960}{59020}Here. Cheers.
+{59310}{59355}Come in.
+{59690}{59767}BeautifuI pIace.|- Thanks.
+{59772}{59865}Are you nervous ?|- A IittIe bit.
+{59942}{60035}What can you teII me|about the piece you have to pIay ?
+{60037}{60172}It's Bach, the second partita.|It's a sarabande in D minor.
+{60200}{60272}It's an oId dance.|- Yes, but what is it about ?
+{60337}{60402}What is the piece about for you ?
+{60407}{60492}What do you hear when you pIay it ?|What do you see ?
+{60520}{60630}That's the secret behind good pIaying.|What's your story ?
+{60672}{60802}And who are you pIaying for ?|For your Iover ?
+{60877}{60987}For your ex ?|For your mother ?
+{60990}{61040}That's important.
+{61115}{61162}Breathe in and out.
+{61520}{61620}A correct posture|is more than haIf of what matters.
+{61870}{61915}Show yourseIf.
+{62010}{62062}Now you can pIay.
+{62397}{62440}CIose your eyes.
+{62500}{62640}TeII yourseIf what the story is about|and who it's for.
+{62702}{62807}The story is about ..|- To yourseIf, not to me.
+{62810}{62870}It's your own secret.
+{64190}{64247}That's beautifuI.
+{64840}{64922}I think that's enough|for a first Iesson.
+{65940}{65992}That was beautifuI.
+{66447}{66500}A beer ?|- Great.
+{66585}{66697}Do you come here often ?|- Yes, this is where we rehearse.
+{66987}{67075}That's Cato, Sophie.
+{67092}{67240}Sander, Simon, Pim, DanieI, Chris|and Jesse who Iives next door.
+{68265}{68310}Pervert.
+{70275}{70427}I don't think I have to introduce you ?|- No, we aIready know each other.
+{70450}{70520}Are you going to pIay too ?|- No.
+{70642}{70690}Why don't you pIay ?
+{70725}{70782}I prefer watching.
+{71470}{71522}I'm gIad you're here.
+{71722}{71770}Are you and Jesse invoIved ?
+{71797}{71857}Jesse and I ? Of course not.
+{71937}{72005}I never had boyfriends at schooI either.
+{72035}{72110}Who did ? They're a bunch of boors.
+{72202}{72247}Are you tired ?
+{72335}{72382}No.
+{80865}{80940}Yukshi, my ear.
+{82477}{82530}Good morning.
+{82552}{82602}Great.
+{82647}{82695}My head.
+{82860}{82900}I think I'm in Iove.
+{82985}{83160}Jesse is reaIIy a nice guy, but I don't|know what he'II think after Iast night.
+{83442}{83485}Where are you going ?
+{83662}{83772}Yukshi, where are you ?|Can you caII me back ?
+{84435}{84482}Have you seen Yukshi ?
+{84535}{84637}She isn't here.|Did you have fun Iast night ?
+{84640}{84760}Yes, it was fun.|- I wouIdn't have expected that from you.
+{84825}{84967}But you're right.|Yukshi is a very nice girI.
+{84995}{85102}She's a good friend of mine.|- Sing something.
+{85245}{85325}I want to sing, but I can't.
+{85395}{85470}I want, I want, I want, I want
+{85690}{85722}I don't Iike it anymore.
+{85727}{85780}More.
+{85782}{85827}I want more.
+{86010}{86120}Do you want coffee ?|- Nice.
+{86277}{86352}ShaII I pIug it in for you ?
+{86617}{86667}Give me.
+{87010}{87080}You can press it when I nod.
+{90617}{90680}We shouIdn't do this.
+{90697}{90750}Yukshi is my friend.
+{91005}{91067}Good Iuck with the audition.
+{91975}{92027}Get Iost.
+{92135}{92270}I don't want you to stay here anymore.|- I want us to stay friends.
+{94955}{95077}This is Vincent Schaap's voice maiI.
+{95080}{95225}It's BeIIe. I'd reaIIy Iike a Iesson|tomorrow, before the second round.
+{95230}{95305}CouId you pIease caII me back|on this number ?
+{96220}{96280}I'm Iooking for Vincent Schaap.
+{96485}{96592}Violin and cello auditions will start|in five minutes in the Franz Liszt Room.
+{96735}{96780}He's not answering.
+{97810}{97912}I saw that you caIIed me.|What is it ?
+{98120}{98167}I want a Iesson.
+{98215}{98270}I want to be abIe to pIay weII.
+{98380}{98430}TeII me what you want.
+{98590}{98647}The same thing as Iast time.
+{100385}{100445}It's time.|- Don't stop.
+{101610}{101650}Thank you.
+{101815}{101932}You're through to the finaI round.|Good Iuck with your preparations.
+{101937}{101980}Thank you.
+{102142}{102242}And ? Did you make it ?|- Yes.
+{102247}{102302}Yes ? CongratuIations.
+{102355}{102430}Thanks.|- ShaII we ceIebrate together ?
+{102470}{102567}Together ?|You mean just the two of us ?
+{102602}{102690}We couId invite some other peopIe|as weII if you want.
+{102785}{102830}I'd Iike that.
+{102930}{102975}And your girIfriend ?
+{103017}{103057}What girIfriend ?
+{103232}{103277}I'II be right back.
+{103305}{103367}I need to teII him something.
+{103405}{103442}I won't be Iong.
+{103905}{103955}I want to thank you.
+{109275}{109325}BeIIe, darIing.
+{109327}{109425}What a surprise. My darIing.|How nice to see you.
+{109427}{109525}Let me hoId you.|You smeII great.
+{110797}{110900}HeIIo, Mr WoIf.|- BeIIe, what are you doing here ?
+{110947}{111000}I've stopped pIaying.
+{111112}{111167}This is for the schooI.
+{111300}{111350}Bye, Mr WoIf.
+{111812}{111952}Mum, what time tonight ?|- The guests wiII be here around seven.
+{111955}{112022}Is the fuII moon ceIebration tonight ?|- Yes.
+{112025}{112122}WiII you be here on time ?|See you Iater.
+{112175}{112262}Mum, I'm Iooking for a job.
+{112305}{112387}Maybe you have something for me ?
+{112437}{112490}Behind the bar, perhaps ?
+{112495}{112560}Are you sure ?|- Yes.
+{112585}{112660}I'd Iove it. That's wonderfuI.
+{113090}{113157}Can I ask you something ?|- Of course.
+{113160}{113252}We're new here|and we're Iooking for the reIax area.
+{113292}{113337}I'II waIk with you.
+{116385}{116435}I'II be right back.
+{116970}{117015}DarIing.
+{117110}{117177}DarIing, what's wrong ?
+{117180}{117262}TeII me.|- I don't know.
+{117340}{117472}You need to go inside.|- No, we need to sit down. TaIk to me.
+{117737}{117832}I made it to the finaI round,|but I'm not going.
+{117862}{117942}I can't pIay. Not on my own.
+{117987}{118045}What do you mean ?
+{118122}{118187}I met this boy, Jesse.
+{118225}{118372}But there's aIso a teacher|and Jesse saw me with the teacher.
+{118375}{118532}This teacher did this thing to me,|with my ear. With my ear Iobe.
+{118555}{118677}If somebody touches my ear Iobe,|I Iose controI.
+{118717}{118787}Honey ..
+{118790}{118945}Everybody Ioses controI sometimes,|but you can't Iet that get you down.
+{119020}{119105}What about Jesse ?|Do you Iike him ?
+{119135}{119230}ShaII we caII him ?
+{119285}{119342}DarIing, come here.
+{119467}{119562}This is Jesse's voice maiI.|Leave a message after the beep.
+{119620}{119730}Hey Jesse, it's BeIIe.
+{119802}{119855}I wanted to taIk to you.
+{119905}{119950}You're not there.
+{120057}{120100}Bye.
+{120975}{121045}I never meant to hurt you.
+{121217}{121280}I Iove you, but not Iike that.
+{121350}{121405}It's okay, BeIIe.
+{121565}{121607}Jesse is in his studio.
+{122460}{122520}I want to taIk to you.
+{122610}{122727}The thing with Vincent wasn't genuine.|It wasn't my intention.
+{122795}{122922}If somebody touches my ear Iobe,|I Iose controI. It's very sensitive.
+{123097}{123142}I Iike you.
+{123335}{123400}I think about you aII day Iong.
+{123465}{123507}I want you to know that.
+{123855}{123917}Are you going to the auditions ?
+{124007}{124062}Can I borrow your vioIin ?
+{124105}{124150}Of course.
+{124190}{124232}Thanks.
+{124525}{124587}Can I borrow your boots ?|- Sure.
+{124767}{124852}She's here for the finaI round.|BeIIe DaatseIaar.
+{124930}{124975}Do you want me to ..
+{125655}{125712}I'd Iike to use this one.
+{125735}{125852}HoId on, we haven't been informed.|- Did you get a note on that ?
+{125857}{125910}Nothing. I think ..
+{125930}{126007}Ladies ..|- How wiII we judge this ?
+{126010}{126097}Go ahead.|- That's aII very weII, but ..
+{129975}{130027}Are you okay ?
